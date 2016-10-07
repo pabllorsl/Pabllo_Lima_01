@@ -13,10 +13,10 @@ Resumo dos passos:
 </h2>
 | Passo  | Descrição |
 | ------------- | ------------- |
-| :x: Passo 1  | Criação de Pokemon  | 
-| :x: Passo 2  | Criação de Pokeagenda  |
-| :x: Passo 3  | Aprimoração de Pokeagenda  |
-| :x: Passo 4  | Criação de Treinador  |
-| :x: Passo 5  | Comparação de força entre treinadores  |
-| :x: Extra Exception   | Tratamento com Exception para os dados e tipos de Pokemon  |
-| :x: Extra Mochila   | Criação de Mochila e Item   |
+| :heavy_check_mark: Passo 1  | Criação de Pokemon  | 
+| :heavy_check_mark: Passo 2  | Criação de Pokeagenda  |
+| :heavy_check_mark: Passo 3  | Aprimoração de Pokeagenda  |
+| :heavy_check_mark: Passo 4  | Criação de Treinador  |
+| :heavy_check_mark: Passo 5  | Comparação de força entre treinadores  |
+| :heavy_check_mark: Extra Exception   | Tratamento com Exception para os dados e tipos de Pokemon  |
+| :heavy_check_mark: Extra Mochila   | Criação de Mochila e Item   |
